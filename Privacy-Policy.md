@@ -1,6 +1,4 @@
-Privacy Policy Preview
-PRIVACY NOTICE
-
+Privacy Policy 
 Last updated January 09, 2023
 
 
