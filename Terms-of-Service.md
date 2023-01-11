@@ -1,214 +1,87 @@
-Terms & conditions
-Updated at 2023-01-11
+Terms of Use
 
+Last updated January 11, 2023.
 
+ToDo List & Things is licensed to You (End-User) by Dmytro Tatarenko, located and registered at pas. Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine (hereinafter: Licensor), for use only under the terms of this License Agreement. Our VAT number is 3313700177. By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that you agree to be bound by all of the terms and conditions of this License Agreement, and that you accept this License Agreement. The parties of this License Agreement acknowledge that Apple is not a Party to this License Agreement and is not bound by any provisions or obligations with regard to the Application, such as warranty, liability, maintenance and support thereof. Dmytro Tatarenko, not Apple, is solely responsible for the licensed Application and the content thereof. This License Agreement may not provide for usage rules for the Application that are in conflict with the latest App Store Terms of Service. Dmytro Tatarenko acknowledges that it had the opportunity to review said terms and this License Agreement is not conflicting with them. All rights not expressly granted to You are reserved.
 
-General Terms
-By accessing and placing an order with ToDo List & Things, you confirm that you are in agreement with and bound by the terms of service contained in the Terms & Conditions outlined below. These terms apply to the entire website and any email or other type of communication between you and ToDo List & Things.
+1. THE APPLICATION
 
-Under no circumstances shall ToDo List & Things team be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if ToDo List & Things team or an authorized representative has been advised of the possibility of such damages. If your use of materials from this site results in the need for servicing, repair or correction of equipment or data, you assume any costs thereof.
+ToDo List & Things (hereinafter: Application) is a program designed for planning and recording tasks, as well as tracking performance and adapted for Apple mobile devices.
 
-ToDo List & Things will not be responsible for any outcome that may occur during the course of usage of our resources. We reserve the rights to change prices and revise the resources usage policy in any moment. This Terms & Conditions was created with Termify.
+2. SCOPE OF LICENSE
 
+2.1 You are given a non-transferable, non-exclusive, non-sublicensable license to install and use the Licensed Application on any Apple-branded Products that You (End-User) own or control and as permitted by the Usage Rules set forth in this section and the App Store Terms of Service, with the exception that such licensed Application may be accessed and used by other accounts associated with You (End-User, The Purchaser) via Family Sharing or volume purchasing. 2.2 This license will also govern any updates of the Application provided by Licensor that replace, repair, and/or supplement the first Application, unless a separate license is provided for such update in which case the terms of that new license will govern. 2.3 You may not share or make the Application available to third parties (unless to the degree allowed by the Apple Terms and Conditions, and with Dmytro Tatarenko's prior written consent), sell, rent, lend, lease or otherwise redistribute the Application. 2.4 You may not reverse engineer, translate, disassemble, integrate, decompile, integrate, remove, modify, combine, create derivative works or updates of, adapt, or attempt to derive the source code of the Application, or any part thereof (except with Dmytro Tatarenko's prior written consent). 2.5 You may not copy (excluding when expressly authorized by this license and the Usage Rules) or alter the Application or portions thereof. You may create and store copies only on devices that you own or control for backup keeping under the terms of this license, the App Store Terms of Service, and any other terms and conditions that apply to the device or software used. You may not remove any intellectual property notices. You acknowledge that no unauthorized third parties may gain access to these copies at any time. 2.6 Violations of the obligations mentioned above, as well as the attempt of such infringement, may be subject to prosecution and damages. 2.7 Licensor reserves the right to modify the terms and conditions of licensing. 2.8 Nothing in this license should be interpreted to restrict third-party terms. When using the Application, You must ensure that you comply with applicable third-party terms and conditions.
 
-License
-ToDo List & Things grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the app strictly in accordance with the terms of this Agreement.
+3. TECHNICAL REQUIREMENTS
 
-These Terms & Conditions are a contract between you and ToDo List & Things (referred to in these Terms & Conditions as "ToDo List & Things", "us", "we" or "our"), the provider of the ToDo List & Things website and the services accessible from the ToDo List & Things website (which are collectively referred to in these Terms & Conditions as the "ToDo List & Things Service").
+3.1 The Application requires a firmware version 16.0.0 or higher. Licensor recommends using the latest version of the firmware. 3.2 Licensor attempts to keep the Application updated so that it complies with modified/new versions of the firmware and new hardware. You are not granted rights to claim such an update. 3.3 You acknowledge that it is Your responsibility to confirm and determine that the app end-user device on which you intend to use the Application satisfies the technical specifications mentioned above. 3.4 Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
 
-You are agreeing to be bound by these Terms & Conditions. If you do not agree to these Terms & Conditions, please do not use the ToDo List & Things Service. In these Terms & Conditions, "you" refers both to you as an individual and to the entity you represent. If you violate any of these Terms & Conditions, we reserve the right to cancel your account or block access to your account without notice.
+4. MAINTENANCE AND SUPPORT
 
+4.1 The Licensor is solely responsible for providing any maintenance and support services for this licensed Application. You can reach the Licensor at the email address listed in the App Store Overview for this licensed Application. 4.2 Dmytro Tatarenko and the End-User acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the licensed Application.
 
-Definitions and key terms
-To help explain things as clearly as possible in this Terms & Conditions, every time any of these terms are referenced, are strictly defined as:
+5. USE OF DATA
 
-Cookie: small amount of data generated by a website and saved by your web browser. It is used to identify your browser, provide analytics, remember information about you such as your language preference or login information.
-Company: when this terms mention “Company,” “we,” “us,” or “our,” it refers to ToDo List & Things, that is responsible for your information under this Terms & Conditions.
-Country: where ToDo List & Things or the owners/founders of ToDo List & Things are based, in this case is Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine
-Device: any internet connected device such as a phone, tablet, computer or any other device that can be used to visit ToDo List & Things and use the services.
-Service: refers to the service provided by ToDo List & Things as described in the relative terms (if available) and on this platform.
-Third-party service: refers to advertisers, contest sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may interest you.
-Website: ToDo List & Things’s site, which can be accessed via this URL:
-You: a person or entity that is registered with ToDo List & Things to use the Services.
+You acknowledge that Licensor will be able to access and adjust Your downloaded licensed Application content and your personal information, and that Licensor's use of such material and information is subject to your legal agreements with Licensor and Licensor's privacy policy: https://github.com/Tatarenko-coder/ToDoList-Things-App/blob/main/Privacy-Policy.md
 
-Restrictions
-You agree not to, and you will not permit others to:
+6. USER GENERATED CONTRIBUTIONS
 
-License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the app or make the platform available to any third party.
-Modify, make derivative works of, disassemble, decrypt, reverse compile or reverse engineer any part of the app.
-Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of ToDo List & Things or its affiliates, partners, suppliers or the licensors of the app.
+The Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or in the Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Application and through third- party websites or applications. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
-Payment
-If you register to any of our recurring payment plans, you agree to pay all fees or charges to your account for the Service in accordance with the fees, charges and billing terms in effect at the time that each fee or charge is due and payable. Unless otherwise indicated in an order form, you must provide ToDo List & Things with a valid credit card (Visa, MasterCard, or any other issuer accepted by us) (“Payment Provider”) as a condition to signing up for the Premium plan. Your Payment Provider agreement governs your use of the designated credit card account, and you must refer to that agreement and not these Terms to determine your rights and liabilities with respect to your Payment Provider. By providing ToDo List & Things with your credit card number and associated payment information, you agree that ToDo List & Things is authorized to verify information immediately, and subsequently invoice your account for all fees and charges due and payable to ToDo List & Things hereunder and that no additional notice or consent is required. You agree to immediately notify ToDo List & Things of any change in your billing address or the credit card used for payment hereunder. ToDo List & Things reserves the right at any time to change its prices and billing methods, either immediately upon posting on our Site or by e-mail delivery to your organization’s administrator(s).
+The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Application, and other users of the Application to use your Contributions in any manner contemplated by the Application and these Terms of Use.
+You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness or each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Application and these Terms of Use.
+Your Contributions are not false, inaccurate, or misleading.
+Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
+Your Contributions do not violate any applicable law, regulation, or rule.
+Your Contributions do not violate the privacy or publicity rights of any third party.
+Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
+Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation. Any use of the Application in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Application.
+7. CONTRIBUTION LICENSE
 
-Any attorney fees, court costs, or other costs incurred in collection of delinquent undisputed amounts shall be the responsibility of and paid for by you.
+By posting your Contributions to any part of the Application or making Contributions accessible to the Application by linking your account from the Application to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use copy, reproduce, disclose, sell, resell, publish, broad cast, retitle, archive, store, cache, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial advertising, or otherwise, and to prepare derivative works of, or incorporate in other works, such as Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels. This license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your contributions, and you warrant that moral rights have not otherwise been asserted in your contributions. We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area in the Application. You are solely responsible for your Contributions to the Application and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions. We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations in the Application; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
 
-No contract will exist between you and ToDo List & Things for the Service until ToDo List & Things accepts your order by a confirmatory e-mail, SMS/MMS message, or other appropriate means of communication.
+8. LIABILITY
 
-You are responsible for any third-party fees that you may incur when using the Service.
+8.1 Licensor's responsibility in the case of violation of obligations and tort shall be limited to intent and gross negligence. Only in case of a breach of essential contractual duties (cardinal obligations), Licensor shall also be liable in case of slight negligence. In any case, liability shall be limited to the foreseeable, contractually typical damages. The limitation mentioned above does not apply to injuries to life, limb, or health. 8.2 Licensor takes no accountability or responsibility for any damages caused due to a breach of duties according to Section 2 of this Agreement. To avoid data loss, You are required to make use of backup functions of the Application to the extent allowed by applicable third-party terms and conditions of use. You are aware that in case of alterations or manipulations of the Application, You will not have access to licensed Application.
 
+9. WARRANTY
 
-Return and Refund Policy
-Thanks for shopping at ToDo List & Things. We appreciate the fact that you like to buy the stuff we build. We also want to make sure you have a rewarding experience while you’re exploring, evaluating, and purchasing our products.
+9.1 Licensor warrants that the Application is free of spyware, trojan horses, viruses, or any other malware at the time of your download. Licensor warrants that the Application works as described in the user documentation. 9.2 No warranty is provided for the Application that is not executable on the device, that has been unauthorizedly modified, handled inappropriately or culpably, combined or installed with inappropriate hardware or software, used with inappropriate accessories, regardless if by Yourself or by third parties, or if there are any other reasons outside of Andrew Tanchuk's sphere of influence that affect the executability of the Application. 9.3 You are required to inspect the Application immediately after installing it and notify Andrew Tanchuk about issues discovered without delay by e-mail provided in Product Claims. The defect report will be taken into consideration and further investigated if it has been mailed within a period of ninety (90) days after discovery. 9.4 If we confirm that the Application is defective, Andrew Tanchuk reserves a choice to remedy the situation either by means of solving the defect or substitute delivery. 9.5 In the event of any failure of the Application to conform to any applicable warranty, You may notify the App-Store-Operator, and Your Application purchase price will be refunded to You. To the maximum extent permitted by applicable law, the App-Store-Operator will have no other warranty obligation whatsoever with respect to the App, and any other losses, claims, damages, liabilities, expenses and costs attributable to any negligence to adhere to any warranty. 9.6 If the user is an entrepreneur, any claim based on faults expires after a statutory period of limitation amounting to twelve (12) months after the Application was made available to the user. The statutory periods of limitation given by law apply for users who are consumers.
 
-As with any shopping experience, there are terms and conditions that apply to transactions at ToDo List & Things. We’ll be as brief as our attorneys will allow. The main thing to remember is that by placing an order or making a purchase at ToDo List & Things, you agree to the terms along with ToDo List & Things’s Privacy Policy.
+10. PRODUCT CLAIMS
 
-If, for any reason, You are not completely satisfied with any good or service that we provide, don't hesitate to contact us and we will discuss any of the issues you are going through with our product.
+Dmytro Tatarenko and the End-User acknowledge that Dmytro Tatarenko, and not Apple, is responsible for addressing any claims of the End-User or any third party relating to the licensed Application or the End-User's possession and/or use of that licensed Application, including, but not limited to: (i) product liability claims; (ii) any claim that the licensed Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Application's use of the HealthKit and HomeKit.
 
+11. LEGAL COMPLIANCE
 
-Your Suggestions
-Any feedback, comments, ideas, improvements or suggestions (collectively, "Suggestions") provided by you to ToDo List & Things with respect to the app shall remain the sole and exclusive property of ToDo List & Things.
+You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and that you are not listed on any U.S. Government list of prohibited or restricted parties.
 
-ToDo List & Things shall be free to use, copy, modify, publish, or redistribute the Suggestions for any purpose and in any way without any credit or any compensation to you.
+12. CONTACT INFORMATION
 
+For general inquiries, complaints, questions or claims concerning the licensed Application, please contact: Dmytro Tatarenko, Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine, mail: td220990@gmail.com
 
-Your Consent
-We've updated our Terms & Conditions to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, registering an account, or making a purchase, you hereby consent to our Terms & Conditions.
+13. TERMINATION
 
+The license is valid until terminated by Dmytro Tatarenko or by You. Your rights under this license will terminate automatically and without notice from Dmytro Tatarenko if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Application, and destroy all copies, full or partial, of the Application.
 
-Links to Other Websites
-This Terms & Conditions applies only to the Services. The Services may contain links to other websites not operated or controlled by ToDo List & Things. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the Services to another website, our Terms & Conditions are no longer in effect. Your browsing and interaction on any other website, including those that have a link on our platform, is subject to that website’s own rules and policies. Such third parties may use their own cookies or other methods to collect information about you.
+14. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY
 
+Dmytro Tatarenko represents and warrants that Dmytro Tatarenko will comply with applicable third-party terms of agreement when using licensed Application. In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer's End-User License Agreement," Apple and Apple's subsidiaries shall be third-party beneficiaries of this End User License Agreement and - upon your acceptance of the terms and conditions of this license agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this End User License Agreement against you as a third-party beneficiary thereof.
 
-Cookies
-ToDo List & Things uses "Cookies" to identify the areas of our website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to enhance the performance and functionality of our app but are non-essential to their use. However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit the app as we would not be able to remember that you had logged in previously. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our website correctly or at all. We never place Personally Identifiable Information in Cookies.
+15. INTELLECTUAL PROPERTY RIGHTS
 
+Dmytro Tatarenko and the End-User acknowledge that, in the event of any third-party claim that the licensed Application or the End-User's possession and use of that licensed Application infringes on the third party's intellectual property rights, Dmytro Tatarenko, and not Apple, will be solely responsible for the investigation, defense, settlement and discharge or any such intellectual property infringement claims.
 
-Changes To Our Terms & conditions
-You acknowledge and agree that ToDo List & Things may stop (permanently or temporarily) providing the Service (or any features within the Service) to you or to users generally at ToDo List & Things’s sole discretion, without prior notice to you. You may stop using the Service at any time. You do not need to specifically inform ToDo List & Things when you stop using the Service. You acknowledge and agree that if ToDo List & Things disables access to your account, you may be prevented from accessing the Service, your account details or any files or other materials which is contained in your account.
+16. APPLICABLE LAW
 
-If we decide to change our Terms & conditions, we will post those changes on this page, and/or update the Terms & conditions modification date below.
+This license agreement is governed by the laws of Ukraine excluding its conflicts of law rules.
 
+17. MISCELLANEOUS
 
-Modifications to Our app
-ToDo List & Things reserves the right to modify, suspend or discontinue, temporarily or permanently, the app or any service to which it connects, with or without notice and without liability to you.
-
-
-Updates to Our app
-ToDo List & Things may from time to time provide enhancements or improvements to the features/ functionality of the app, which may include patches, bug fixes, updates, upgrades and other modifications ("Updates").
-
-Updates may modify or delete certain features and/or functionalities of the app. You agree that ToDo List & Things has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the app to you.
-
-You further agree that all Updates will be (i) deemed to constitute an integral part of the app, and (ii) subject to the terms and conditions of this Agreement.
-
-
-Third-Party Services
-We may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services ("Third- Party Services").
-
-You acknowledge and agree that ToDo List & Things shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. ToDo List & Things does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.
-
-Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.
-
-
-Term and Termination
-This Agreement shall remain in effect until terminated by you or ToDo List & Things.
-
-ToDo List & Things may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
-
-This Agreement will terminate immediately, without prior notice from ToDo List & Things, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the app and all copies thereof from your computer.
-
-Upon termination of this Agreement, you shall cease all use of the app and delete all copies of the app from your computer.
-
-Termination of this Agreement will not limit any of ToDo List & Things's rights or remedies at law or in equity in case of breach by you (during the term of this Agreement) of any of your obligations under the present Agreement.
-
-
-Copyright Infringement Notice
-If you are a copyright owner or such owner’s agent and believe any material on our app constitutes an infringement on your copyright, please contact us setting forth the following information: (a) a physical or electronic signature of the copyright owner or a person authorized to act on his behalf; (b) identification of the material that is claimed to be infringing; (c) your contact information, including your address, telephone number, and an email; (d) a statement by you that you have a good faith belief that use of the material is not authorized by the copyright owners; and (e) the a statement that the information in the notification is accurate, and, under penalty of perjury you are authorized to act on behalf of the owner.
-
-
-Indemnification
-You agree to indemnify and hold ToDo List & Things and its parents, subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) harmless from any claim or demand, including reasonable attorneys' fees, due to or arising out of your: (a) use of the app; (b) violation of this Agreement or any law or regulation; or (c) violation of any right of a third party.
-
-
-No Warranties
-The app is provided to you "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, ToDo List & Things, on its own behalf and on behalf of its affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the app, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, ToDo List & Things provides no warranty or undertaking, and makes no representation of any kind that the app will meet your requirements, achieve any intended results, be compatible or work with any other software, apps, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither ToDo List & Things nor any ToDo List & Things's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the app, or the information, content, and materials or products included thereon; (ii) that the app will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the app; or (iv) that the app, its servers, the content, or e-mails sent from or on behalf of ToDo List & Things are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of or limitations on implied warranties or the limitations on the applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to you.
-
-
-Limitation of Liability
-Notwithstanding any damages that you might incur, the entire liability of ToDo List & Things and any of its suppliers under any provision of this Agreement and your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by you for the app.
-
-To the maximum extent permitted by applicable law, in no event shall ToDo List & Things or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, for loss of data or other information, for business interruption, for personal injury, for loss of privacy arising out of or in any way related to the use of or inability to use the app, third-party software and/or third-party hardware used with the app, or otherwise in connection with any provision of this Agreement), even if ToDo List & Things or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-
-Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
-
-
-Severability
-If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-This Agreement, together with the Privacy Policy and any other legal notices published by ToDo List & Things on the Services, shall constitute the entire agreement between you and ToDo List & Things concerning the Services. If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect. No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and ToDo List & Things’s failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision. YOU AND ToDo List & Things AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
-
-
-Waiver
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Agreement shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute waiver of any subsequent breach.
-
-No failure to exercise, and no delay in exercising, on the part of either party, any right or any power under this Agreement shall operate as a waiver of that right or power. Nor shall any single or partial exercise of any right or power under this Agreement preclude further exercise of that or any other right granted herein. In the event of a conflict between this Agreement and any applicable purchase or other terms, the terms of this Agreement shall govern.
-
-
-Amendments to this Agreement
-ToDo List & Things reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
-
-By continuing to access or use our app after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use ToDo List & Things.
-
-
-Entire Agreement
-The Agreement constitutes the entire agreement between you and ToDo List & Things regarding your use of the app and supersedes all prior and contemporaneous written or oral agreements between you and ToDo List & Things.
-
-You may be subject to additional terms and conditions that apply when you use or purchase other ToDo List & Things's services, which ToDo List & Things will provide to you at the time of such use or purchase.
-
-
-Updates to Our Terms
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account.
-
-
-Intellectual Property
-The app and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by ToDo List & Things, its licensors or other providers of such material and are protected by Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. The material may not be copied, modified, reproduced, downloaded or distributed in any way, in whole or in part, without the express prior written permission of ToDo List & Things, unless and except as is expressly provided in these Terms & Conditions. Any unauthorized use of the material is prohibited.
-
-
-Agreement to Arbitrate
-This section applies to any dispute EXCEPT IT DOESN’T INCLUDE A DISPUTE RELATING TO CLAIMS FOR INJUNCTIVE OR EQUITABLE RELIEF REGARDING THE ENFORCEMENT OR VALIDITY OF YOUR OR ToDo List & Things’s INTELLECTUAL PROPERTY RIGHTS. The term “dispute” means any dispute, action, or other controversy between you and ToDo List & Things concerning the Services or this agreement, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis. “Dispute” will be given the broadest possible meaning allowable under law.
-
-
-Notice of Dispute
-In the event of a dispute, you or ToDo List & Things must give the other a Notice of Dispute, which is a written statement that sets forth the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute via email to: td220990@gmail.com. ToDo List & Things will send any Notice of Dispute to you by mail to your address if we have it, or otherwise to your email address. You and ToDo List & Things will attempt to resolve any dispute through informal negotiation within sixty (60) days from the date the Notice of Dispute is sent. After sixty (60) days, you or ToDo List & Things may commence arbitration.
-
-
-Binding Arbitration
-If you and ToDo List & Things don’t resolve any dispute by informal negotiation, any other effort to resolve the dispute will be conducted exclusively by binding arbitration as described in this section. You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury. The dispute shall be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association. Either party may seek any interim or preliminary injunctive relief from any court of competent jurisdiction, as necessary to protect the party’s rights or property pending the completion of arbitration. Any and all legal, accounting, and other costs, fees, and expenses incurred by the prevailing party shall be borne by the non-prevailing party.
-
-
-Submissions and Privacy
-In the event that you submit or post any ideas, creative suggestions, designs, photographs, information, advertisements, data or proposals, including ideas for new or improved products, services, features, technologies or promotions, you expressly agree that such submissions will automatically be treated as non-confidential and non-proprietary and will become the sole property of ToDo List & Things without any compensation or credit to you whatsoever. ToDo List & Things and its affiliates shall have no obligations with respect to such submissions or posts and may use the ideas contained in such submissions or posts for any purposes in any medium in perpetuity, including, but not limited to, developing, manufacturing, and marketing products and services using such ideas.
-
-
-Promotions
-ToDo List & Things may, from time to time, include contests, promotions, sweepstakes, or other activities (“Promotions”) that require you to submit material or information concerning yourself. Please note that all Promotions may be governed by separate rules that may contain certain eligibility requirements, such as restrictions as to age and geographic location. You are responsible to read all Promotions rules to determine whether or not you are eligible to participate. If you enter any Promotion, you agree to abide by and to comply with all Promotions Rules.
-
-Additional terms and conditions may apply to purchases of goods or services on or through the Services, which terms and conditions are made a part of this Agreement by this reference.
-
-
-Typographical Errors
-In the event a product and/or service is listed at an incorrect price or with incorrect information due to typographical error, we shall have the right to refuse or cancel any orders placed for the product and/or service listed at the incorrect price. We shall have the right to refuse or cancel any such order whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account or other payment account in the amount of the charge.
-
-
-Miscellaneous
-If for any reason a court of competent jurisdiction finds any provision or portion of these Terms & Conditions to be unenforceable, the remainder of these Terms & Conditions will continue in full force and effect. Any waiver of any provision of these Terms & Conditions will be effective only if in writing and signed by an authorized representative of ToDo List & Things. ToDo List & Things will be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety) in the event of any breach or anticipatory breach by you. ToDo List & Things operates and controls the ToDo List & Things Service from its offices in Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine. The Service is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation. Accordingly, those persons who choose to access the ToDo List & Things Service from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. These Terms & Conditions (which include and incorporate the ToDo List & Things Privacy Policy) contains the entire understanding, and supersedes all prior understandings, between you and ToDo List & Things concerning its subject matter, and cannot be changed or modified by you. The section headings used in this Agreement are for convenience only and will not be given any legal import.
-
-
-Disclaimer
-ToDo List & Things is not responsible for any content, code or any other imprecision.
-
-ToDo List & Things does not provide warranties or guarantees.
-
-In no event shall ToDo List & Things be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. The Company reserves the right to make additions, deletions, or modifications to the contents on the Service at any time without prior notice.
-
-The ToDo List & Things Service and its contents are provided "as is" and "as available" without any warranty or representations of any kind, whether express or implied. ToDo List & Things is a distributor and not a publisher of the content supplied by third parties; as such, ToDo List & Things exercises no editorial control over such content and makes no warranty or representation as to the accuracy, reliability or currency of any information, content, service or merchandise provided through or accessible via the ToDo List & Things Service. Without limiting the foregoing, ToDo List & Things specifically disclaims all warranties and representations in any content transmitted on or in connection with the ToDo List & Things Service or on sites that may appear as links on the ToDo List & Things Service, or in the products provided as a part of, or otherwise in connection with, the ToDo List & Things Service, including without limitation any warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. No oral advice or written information given by ToDo List & Things or any of its affiliates, employees, officers, directors, agents, or the like will create a warranty. Price and availability information is subject to change without notice. Without limiting the foregoing, ToDo List & Things does not warrant that the ToDo List & Things Service will be uninterrupted, uncorrupted, timely, or error-free.
-
-
-Contact Us
-Don't hesitate to contact us if you have any questions.
-
-Via Email: td220990@gmail.com
+17.1 If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose. 
+17.2 Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing. These terms of use were created using Termly's Terms and Conditions Generator.
