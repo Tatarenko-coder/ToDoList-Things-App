@@ -1,4 +1,4 @@
-# ToDoList-Things-App
+# ToDo List & Tasks App
 
 If you have any questions or faced with a bug just drop me a line — todolistandtasks@gmail.com
 
