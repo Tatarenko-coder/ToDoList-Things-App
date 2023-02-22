@@ -1,5 +1,5 @@
 Privacy Policy 
-Last updated January 09, 2023
+Last updated February 22, 2023
 
 
 
