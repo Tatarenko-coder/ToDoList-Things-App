@@ -1,6 +1,6 @@
 Terms of Use
 
-Last updated January 11, 2023.
+Last updated February 22, 2023.
 
 ToDo List & Things is licensed to You (End-User) by Dmytro Tatarenko, located and registered at pas. Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine (hereinafter: Licensor), for use only under the terms of this License Agreement. Our VAT number is 3313700177. By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that you agree to be bound by all of the terms and conditions of this License Agreement, and that you accept this License Agreement. The parties of this License Agreement acknowledge that Apple is not a Party to this License Agreement and is not bound by any provisions or obligations with regard to the Application, such as warranty, liability, maintenance and support thereof. Dmytro Tatarenko, not Apple, is solely responsible for the licensed Application and the content thereof. This License Agreement may not provide for usage rules for the Application that are in conflict with the latest App Store Terms of Service. Dmytro Tatarenko acknowledges that it had the opportunity to review said terms and this License Agreement is not conflicting with them. All rights not expressly granted to You are reserved.
 
@@ -63,7 +63,7 @@ You represent and warrant that you are not located in a country that is subject 
 
 12. CONTACT INFORMATION
 
-For general inquiries, complaints, questions or claims concerning the licensed Application, please contact: Dmytro Tatarenko, Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine, mail: td220990@gmail.com
+For general inquiries, complaints, questions or claims concerning the licensed Application, please contact: Dmytro Tatarenko, Tarasa Shevchenko 362 / 26, Lviv, Lvivskaya 79039, Ukraine, mail: todolistandtasks@gmail.com
 
 13. TERMINATION
 
